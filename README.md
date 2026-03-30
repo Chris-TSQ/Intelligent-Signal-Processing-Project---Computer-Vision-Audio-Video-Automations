@@ -1,5 +1,5 @@
-# Intelligent-Signal-Processing-Project---Computer-Vision-Audio-Video-Automations
-Intelligent Signal Processing Project - Computer Vision, Audio, Video Automations
+## Intelligent Signal Processing Project - Computer Vision, Audio, Video Automations
+
 # Project Report Summary
 
 This project demonstrates applied intelligent signal processing through three practical systems: computer vision, audio compression, and video processing automation.
